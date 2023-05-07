@@ -7,7 +7,7 @@
  * @source https://marda33.github.io/SkeuoCord/updates/SkeuoCordBase.css
 */
 
-@import url("https://marda33.github.io/SkeuoCord/updates/SkeuoCordBase.css");
+@import url("https://marda33.github.io/SkeuoCord/updates/SkeuoCord_BGImport.css");
 /*replace SkeuoCordBase with SkeuoCord_BGImport to use custom BG image*/
 
 :root {
@@ -18,6 +18,6 @@
 	--medavatarradius: 4px !important; /*default: 4px*/
 	--largeavatarradius: 5px !important; /*default: 5px*/
 	/*Custom BG - enter the link to the image you want to use as the app background, keep quotes*/
-	--bg-image: url('here') center/cover no-repeat !important;
+	--bg-image: url('https://cdn.dribbble.com/users/763/screenshots/1793152/media/14bf59560845f3ca2eedb0014ebb680f.jpg') center/cover no-repeat !important;
 	/*------*/
 }
