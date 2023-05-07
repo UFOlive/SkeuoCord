@@ -18,6 +18,6 @@
 	--medavatarradius: 4px !important; /*default: 4px*/
 	--largeavatarradius: 5px !important; /*default: 5px*/
 	/*Custom BG - enter the link to the image you want to use as the app background, keep quotes*/
-	--bg-image: url('https://cdn.dribbble.com/users/763/screenshots/1793152/media/14bf59560845f3ca2eedb0014ebb680f.jpg') center/cover no-repeat !important;
+	--bg-image: url('https://media.discordapp.net/attachments/1051144009285902377/1104744286081257542/doscprd_bg.png') center/cover no-repeat !important;
 	/*------*/
 }
